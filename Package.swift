@@ -21,12 +21,12 @@ let package = Package(
         .binaryTarget(
             name: "AmazonFling",
             url: "https://github.com/mskrischke/AmazonFlingSPM/releases/download/1.4.0/AmazonFling.xcframework.zip",
-            checksum: "e60fae244d024c1216de24a82e9ffa6d62bb0de312fec1f6ce67334bdb85b89a"
+            checksum: "fe4bc0c3aae365a5c5b7d7a4dfb44ad2bb95441cef5dc6a662f4522159bceee0"
         ),
         .binaryTarget(
             name: "Bolts",
             url: "https://github.com/mskrischke/AmazonFlingSPM/releases/download/1.4.0/Bolts.xcframework.zip",
-            checksum: "2658b2990284927d03a23759c260ee8552e5f6e48e59ad2aa0edc5f86049ed89"
+            checksum: "8b2003dd5f0314810bba711a6bb0c530c0e8bc5108f2e5f09e8c8d45df0da7b4"
         )
     ]
 )
